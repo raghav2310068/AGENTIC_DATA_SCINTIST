@@ -1,7 +1,7 @@
 import os
 
 os.environ["STREAMLIT_SERVER_MAX_UPLOAD_SIZE"] = "2000"
-os.environ["GOOGLE_API_KEY"] = "AIzaSyBRwmbWH8vyTot_xKVYPmlp8L0VkrwKs6I"
+os.environ["GOOGLE_API_KEY"] = "ADD_YOUR_API_KEYS"
 import streamlit as st
 
 # Set Streamlit to wide mode
